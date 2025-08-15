@@ -1,3 +1,3 @@
 # Efemeor
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?20C9242DBE43F4EDEA4D4D0605A7FE570CFD
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0241D0B45B52516513B3824EFBB4E92794AD
